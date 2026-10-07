@@ -1,0 +1,19 @@
+{
+  "candidateId": "30359b06-7e5a-468c-a071-f622abe0b377",
+  "projectId": "5e52ce4c-dbc3-464b-8604-cb38935c673b",
+  "runId": "ce254306-75f6-44f2-a6f5-e9ebdaaed389",
+  "conversationId": "66e1cc29-65cb-4b58-9f89-9f74b0f23c03",
+  "provenance": {
+    "summary": "Detected from capabilities-section-plan.md after a successful run.",
+    "detectedAt": 1791410364951
+  },
+  "sourceRefs": [
+    {
+      "kind": "file",
+      "value": "capabilities-section-plan.md",
+      "label": "capabilities-section-plan.md",
+      "size": 11686,
+      "copied": true
+    }
+  ]
+}
