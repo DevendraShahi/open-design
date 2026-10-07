@@ -1,0 +1,22 @@
+{
+  "$schema": "https://open-design.ai/schemas/plugin.v1.json",
+  "specVersion": "1.0.0",
+  "name": "capabilities-section-one-team-four-disciplines-full-redesign-plan-muyok4ta",
+  "title": "Capabilities section (\"One team · four disciplines\") — full redesign plan",
+  "version": "0.1.0",
+  "description": "**Intent:** Redesign the *entire* Capabilities band on the echo11 homepage — every sub-component (kicker, claim heading, argument column, hairline, the four discipline rows), its layout, spacing, and its loading/entry ch",
+  "od": {
+    "kind": "skill",
+    "taskKind": "new-generation",
+    "context": {
+      "skills": [
+        {
+          "path": "./SKILL.md"
+        }
+      ]
+    },
+    "capabilities": [
+      "prompt:inject"
+    ]
+  }
+}
